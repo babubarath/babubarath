@@ -1,4 +1,4 @@
-- 👋 **Hi, I’m @babubarath**
+- 👋 **Hi, I’m @babuSG**
 - 👀 I’m interested in Website Development and Machine Learning
 - 🌱 I’m currently learning Fullstack Web Dev
 - 💞️ I’m looking to collaborate on GitHub
