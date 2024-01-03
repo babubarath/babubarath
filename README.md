@@ -1,6 +1,6 @@
 - 👋 **Hi, I’m @babuSG**
-- 👀 I’m interested in Website Development and Machine Learning
-- 🌱 I’m currently learning Fullstack Web Dev
+- 👀 I’m interested in Java Development
+- 🌱 I’m currently learning Fullstack Java Dev
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me bsg97315@gmail.com
 
